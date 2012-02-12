@@ -1,0 +1,48 @@
+body { 
+	background-color: #CE171F; 
+	color: white;
+}
+
+h2{
+	color: white;
+	text-transform: uppercase;
+}
+
+#logo{
+	width: 500px;
+    margin: 40px auto;
+}
+
+#movie{
+	height: 520px;
+}
+
+#statistics{
+	text-align: justify;
+	padding: 0 0 0 10px;
+}
+
+#content{
+	margin: 0 0 100px 0;
+}
+
+.footer{
+	text-align: center;
+}
+
+.pics{
+	padding: 20px 0px;
+}
+
+.pics a{
+	margin: 0px 9px 0px 0px;
+}
+
+.pics img{
+	border: 1px solid white;
+}
+
+.container {
+    margin: 0 auto;
+    width: 1200px;
+}
